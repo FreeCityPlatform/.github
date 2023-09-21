@@ -1,12 +1,5 @@
-## Hi there 👋
+# Free City Platform 👋
 
-<!--
+## Introduction
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The Free City Platform is a collection of software that is open source and can be utilized by free city projects to help them get started. The platform is designed to be modular and flexible so that it can be used in a variety of different contexts. The platform is also designed to be easy to use and easy to deploy.
